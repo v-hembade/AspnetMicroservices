@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\projects\\AspnetMicroservices-main\\src\\Services\\Catalog\\Catalog.API\\Catalog.API.csproj": {}
+    "D:\\projects\\AspnetMicroservices-main\\Basket.API\\Basket.API.csproj": {}
   },
   "projects": {
-    "D:\\projects\\AspnetMicroservices-main\\src\\Services\\Catalog\\Catalog.API\\Catalog.API.csproj": {
+    "D:\\projects\\AspnetMicroservices-main\\Basket.API\\Basket.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\projects\\AspnetMicroservices-main\\src\\Services\\Catalog\\Catalog.API\\Catalog.API.csproj",
-        "projectName": "Catalog.API",
-        "projectPath": "D:\\projects\\AspnetMicroservices-main\\src\\Services\\Catalog\\Catalog.API\\Catalog.API.csproj",
+        "projectUniqueName": "D:\\projects\\AspnetMicroservices-main\\Basket.API\\Basket.API.csproj",
+        "projectName": "Basket.API",
+        "projectPath": "D:\\projects\\AspnetMicroservices-main\\Basket.API\\Basket.API.csproj",
         "packagesPath": "C:\\Users\\admin new\\.nuget\\packages\\",
-        "outputPath": "D:\\projects\\AspnetMicroservices-main\\src\\Services\\Catalog\\Catalog.API\\obj\\",
+        "outputPath": "D:\\projects\\AspnetMicroservices-main\\Basket.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -43,13 +43,9 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
-            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+            "Microsoft.Extensions.Caching.StackExchangeRedis": {
               "target": "Package",
-              "version": "[1.19.4, )"
-            },
-            "MongoDB.Driver": {
-              "target": "Package",
-              "version": "[2.22.0, )"
+              "version": "[7.0.13, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
