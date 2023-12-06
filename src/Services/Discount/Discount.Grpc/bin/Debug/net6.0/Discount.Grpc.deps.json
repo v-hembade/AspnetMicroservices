@@ -11,6 +11,7 @@
           "AutoMapper.Extensions.Microsoft.DependencyInjection": "8.1.1",
           "Dapper": "2.1.21",
           "Grpc.AspNetCore": "2.40.0",
+          "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": "1.19.4",
           "Npgsql": "6.0.10"
         },
         "runtime": {
@@ -180,6 +181,7 @@
         }
       },
       "Microsoft.Extensions.Primitives/3.0.3": {},
+      "Microsoft.VisualStudio.Azure.Containers.Tools.Targets/1.19.4": {},
       "Npgsql/6.0.10": {
         "dependencies": {
           "System.Runtime.CompilerServices.Unsafe": "6.0.0"
@@ -362,6 +364,13 @@
       "sha512": "sha512-eJuAFVIH9zUZ7j7tCSbJD+tS0dueENIerwoGxFL8RYqCmbEqQ7wVOG+mt2mZAbEpnMPsGl1Fc/HIhWpB9ftwhg==",
       "path": "microsoft.extensions.primitives/3.0.3",
       "hashPath": "microsoft.extensions.primitives.3.0.3.nupkg.sha512"
+    },
+    "Microsoft.VisualStudio.Azure.Containers.Tools.Targets/1.19.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-aKxpRAUIxDrnSnyr7xJWGixOBgsB7Z4oHpWRkpRzzq04kfze4mN7944gRc4X9H2U5KG3A/btF74kavkO8KXqCg==",
+      "path": "microsoft.visualstudio.azure.containers.tools.targets/1.19.4",
+      "hashPath": "microsoft.visualstudio.azure.containers.tools.targets.1.19.4.nupkg.sha512"
     },
     "Npgsql/6.0.10": {
       "type": "package",

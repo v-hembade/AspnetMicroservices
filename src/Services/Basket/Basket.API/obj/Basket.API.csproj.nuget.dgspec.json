@@ -47,6 +47,14 @@
               "target": "Package",
               "version": "[2.1.21, )"
             },
+            "Grpc.AspNetCore": {
+              "target": "Package",
+              "version": "[2.49.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[6.0.25, )"
+            },
             "Microsoft.Extensions.Caching.StackExchangeRedis": {
               "target": "Package",
               "version": "[6.0.24, )"
